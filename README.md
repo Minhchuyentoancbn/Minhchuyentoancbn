@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Minh
-- 👀 I’m interested in Data Science, Computer Science, Python
+- 👀 I’m interested in Data Science, Computer Science, Python and particularly Machine Learning and Deep Learning
 - 🌱 I’m currently doing my Computer Science degree at Hanoi University of Science and Technology
 - 📫 Reach me: minhmeo7a1@gmail.com
 - 🔗 Connect with me in Linkedin: https://www.linkedin.com/in/minh-l%C3%AA-b05a86141/
