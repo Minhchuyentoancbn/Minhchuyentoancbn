@@ -6,6 +6,7 @@
 - 🔗 Connect with me in [Facebook](https://www.facebook.com/profile.php?id=100008890392245)
 
 [![Minhchuyentoancbn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minhchuyentoancbn)](https://github.com/Minhchuyentoancbn/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minhchuyentoancbn)](https://github.com/Minhchuyentoancbn/github-readme-stats)
 
 
 <!---
