@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Minh
-- 👀 I’m interested in Deep Learning, Machine Learning, Statistics and Continual Learning
-- 🌱 I’m currently doing my Computer Science Bachelor degree at Hanoi University of Science and Technology
+- 👀 I’m interested in Machine Learning, Mixture of Experts and Continual Learning
+- 🌱 I’m currently a research resident at VinAI Research
 - 📫 Reach me: minh611002@gmail.com
 - 🔗 Connect with me in [Linkedin](https://www.linkedin.com/in/minh-l%C3%AA-b05a86141/)
 - 🔗 Connect with me in [Facebook](https://www.facebook.com/profile.php?id=100008890392245)
